@@ -1,6 +1,13 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: #F9FFFE;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  background-color: #DBF2EF;
 }
 
 body {
@@ -8,7 +15,45 @@ body {
   font-size: 2rem;
 }
 
+.block {
+  background-color: #eafeff;
+  border-bottom: 1rem;
+  border-radius: 5px;
+}
+
 .container {
+  padding-left: 0.5rem;
   width: 80%;
   margin: 0 auto;
+  margin-bottom: 3rem;
+}
+
+
+h1 {
+  font-size: 34px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  letter-spacing: 0.05em;
+  color: #252525;
+}
+
+h2 {
+  font-size: 26px;
+  font-family: sans-serif;
+  flex: end;
+}
+
+h3 {
+  font-size: 21px;
+}
+
+h4 {
+  font-size: 13px;
+  color: #6BB1B3;
+  padding-bottom: 0.5rem;
+}
+
+p {
+  font-size: 13px;
+  color: #828282;
 }
