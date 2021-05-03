@@ -15,17 +15,37 @@ body {
   font-size: 2rem;
 }
 
-.block {
-  background-color: #eafeff;
-  border-bottom: 1rem;
-  border-radius: 5px;
-}
-
 .container {
   padding-left: 0.5rem;
   width: 80%;
   margin: 0 auto;
   margin-bottom: 3rem;
+}
+
+.block {
+  background-color: #eafeff;
+  border-bottom: 1rem;
+  border-radius: 5px;
+  width: 19rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.Button {
+  text-align: center;
+  color: #DBF2EF;
+  background-color: #026063;
+  border-radius: 0.8rem;
+  display: flex;
+  justify-content: center;
+  width: 17rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
 }
 
 
@@ -40,7 +60,9 @@ h1 {
 h2 {
   font-size: 26px;
   font-family: sans-serif;
-  flex: end;
+  margin-block-end: 0.5rem;
+  margin-block-start: 0.5rem;
+  float: right;
 }
 
 h3 {
@@ -56,4 +78,20 @@ h4 {
 p {
   font-size: 13px;
   color: #828282;
+}
+
+@media screen and (max-width: 1000px) {
+  .grid-container{
+    grid-template-columns: auto auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .grid-container{
+    grid-template-columns: auto;
+  }
+
+  .block {
+    width: 18rem;
+  }
 }
