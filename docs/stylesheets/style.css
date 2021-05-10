@@ -63,6 +63,8 @@ h2 {
   margin-block-end: 0.5rem;
   margin-block-start: 0.5rem;
   float: right;
+  margin-right: 42%;
+  margin-left: auto;
 }
 
 h3 {
@@ -89,6 +91,10 @@ p {
 @media screen and (max-width: 767px) {
   .grid-container{
     grid-template-columns: auto;
+  }
+
+  h2 {
+    margin-right: 30%;
   }
 
   .block {
