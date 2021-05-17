@@ -2,6 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   background-color: #F9FFFE;
+  cursor: crosshair;
 }
 
 header {
@@ -47,7 +48,6 @@ body {
   display: grid;
   grid-template-columns: auto auto auto;
 }
-
 
 h1 {
   font-size: 34px;
@@ -114,7 +114,25 @@ li {
 a {
   color: #003C3E;
   text-decoration: none;
-  font-size: 1rem;
+}
+
+.Names {
+  text-align: center;
+  margin-top: 0;
+  color: #003C3E;
+}
+
+.Heads {
+  width: 9rem;
+  height: 9rem;
+}
+
+footer {
+  height: auto;
+  width: auto;
+  background-color: #003C3E;
+}
+
 }
 
 
@@ -123,8 +141,8 @@ a {
     grid-template-columns: auto auto;
   }
 
-  h2 {
-    margin-right: 42%;
+  h2{
+    margin-right: 35%;
   }
 }
 
