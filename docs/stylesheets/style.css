@@ -133,6 +133,18 @@ footer {
   background-color: #003C3E;
 }
 
+.grid-container-footer {
+  display: grid;
+  grid-template-columns: auto auto;
+  color: #eafeff;
+}
+
+.block-footer {
+  background-color: #003C3E;
+  border-radius: 5px;
+  width: 22rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 
@@ -151,11 +163,24 @@ footer {
     grid-template-columns: auto;
   }
 
+  .grid-container-footer {
+    grid-template-columns: auto;
+  }
+
   h2 {
     margin-right: 30%;
   }
 
   .block {
+    width: 18rem;
+  }
+  .block-footer {
+    width: 20rem;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .block-footer {
     width: 18rem;
   }
 }
