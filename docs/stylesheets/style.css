@@ -73,13 +73,13 @@ h3 {
 
 h4 {
   font-size: 13px;
-  color: #6BB1B3;
+  color: #385C5C;
   padding-bottom: 0.5rem;
 }
 
 p {
   font-size: 13px;
-  color: #828282;
+  color: #525252;
 }
 
 .dropdown {
@@ -164,6 +164,7 @@ footer {
 .navBar a:hover {
   background-color: #c2e4df;
 }
+
 
 
 @media screen and (max-width: 1000px) {
