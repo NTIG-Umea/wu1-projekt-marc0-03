@@ -27,7 +27,7 @@ body {
   background-color: #eafeff;
   border-bottom: 1rem;
   border-radius: 5px;
-  width: 19rem;
+  width: 17rem;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -84,7 +84,7 @@ p {
 
 .dropdown {
   position: relative;
-  display: inline-block;
+  display: none;
 }
 
 .dropdown-content {
@@ -147,14 +147,40 @@ footer {
   padding-right: 1rem;
 }
 
+.navBar {
+  display: inline;
+  font-size: 14px;
+  float: left;
+}
+
+
+.navBar a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navBar a:hover {
+  background-color: #c2e4df;
+}
+
 
 @media screen and (max-width: 1000px) {
   .grid-container{
     grid-template-columns: auto auto;
   }
 
+  .dropdown {
+    display: inline-block;
+  }
+
   h2{
     margin-right: 35%;
+  }
+
+  .navBar {
+    display: none;
   }
 }
 
