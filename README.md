@@ -13,7 +13,7 @@ bildterapi husets hemsiade är inte användarvänlig. Det är väldigt svårt at
 ## Kraven
 
 * Skisser.  
-<b>Finns på figma</b>
+<b>Finns på figma kolla dokumentation</b>
 * Minst en sida, navigation, funka okej på desktop och mobil. 
 Gjort en sida med en navigationbar/Meny som funkar på desktop och mobil
 * Måste innehålla bilder (inte bara logga).
