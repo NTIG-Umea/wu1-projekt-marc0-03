@@ -13,22 +13,25 @@ bildterapi husets hemsiade är inte användarvänlig. Det är väldigt svårt at
 ## Kraven
 
 * Skisser.  
-<b>Finns på figma kolla dokumentation</b>
-* Minst en sida, navigation, funka okej på desktop och mobil. 
-Gjort en sida med en navigationbar/Meny som funkar på desktop och mobil
-* Måste innehålla bilder (inte bara logga).
+<b>Finns på figma, kolla dokumentation</b>
+
+* Minst en sida, navigation, funka okej på desktop och mobil.      
+<b>Gjort en sida med en navigationbar/Meny som funkar på desktop och mobil</b>
+
+* Måste innehålla bilder (inte bara logga).      
 <b>pfp(profile pictures)</b>
-* Tillgänglighets tänk, förbättra något från orginalet.
-* <b>Kommer tänka färger och kontraster</b>
+
+* Tillgänglighets tänk, förbättra något från orginalet.      
+<b>Kommer tänka färger och kontraster</b>
 
 
-* Hostad på GitHub pages.
-Klart
-* Validerande HTML, CSS.
-Kolla wiki
+* Hostad på GitHub pages.      
+<b>Klart</b>
+* Validerande HTML, CSS.      
+<b>Kolla wiki</b>
 
-* Optimerade bilder.
-När jag skapade mina Pfp gjorde jag dom i rätt "nästan" rätt storlek så jag behöver inte riktigt optimera dom mer än det.
+* Optimerade bilder.      
+<b>När jag skapade mina Pfp gjorde jag dom i rätt "nästan" rätt storlek så jag behöver inte riktigt optimera dom mer än det.</b>
 
 
 * Testad.
