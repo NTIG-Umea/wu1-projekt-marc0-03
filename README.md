@@ -4,27 +4,22 @@ Slutprojekt webb 1.
 
 ## Vad
 
-Välj en sida och gör en redesign / kopiera den. Det ska inte vara en sida du har skapat.
+Jag ska göra en redesign av en hemsida som vi har jobbat med på digitalt skapande, bildterapi huset.
 
-Du kan välja att skapa sidor ur din redesign av Bildterapihuset.
-Du kan välja att koda den design du gör i Digitalt skapande hos Frej.
-Kopiera en sida, se mitt arbete med SVT i kursboken (du kommer då ändra på saker).
+på digitalt skapande har vi skapat en mobil verision av hemsidan som jag kommer att göra med html och css, sidan ska fungera både på mobil och dator.
 
-Du ska kunna berätta varför du arbetar med just den sidan, vad vill du uppnå, vad är det
-du vill förbättra.
-Vad är det du kan göra bättre?
-
-Detta ska dokumenteras och redovisas.
+bildterapi husets hemsiade är inte användarvänlig. Det är väldigt svårt att hitta på sidan och mitt hopp är att fixa det, jag vill också testa nya saker med html och css som "cards" och menyer.
 
 ## Krav
 
-* Skisser.
-* Minst en sida, navigation, funka okej på desktop och mobil.
-* Måste innehålla bilder (inte bara logga).
-* Tillgänglighets tänk, förbättra något från orginalet.
+* Skisser.  <b>Finns på figma</b>
+* Minst en sida, navigation, funka okej på desktop och mobil. 
+* Måste innehålla bilder (inte bara logga). <b>pfp(profile pictures)</b>
+* Tillgänglighets tänk, förbättra något från orginalet. <b>Kommer tänka färger</b>
 
 * Hostad på GitHub pages.
 * Validerande HTML, CSS.
+* 
 * Optimerade bilder.
 
 * Testad.
