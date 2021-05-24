@@ -10,17 +10,26 @@ på digitalt skapande har vi skapat en mobil verision av hemsidan som jag kommer
 
 bildterapi husets hemsiade är inte användarvänlig. Det är väldigt svårt att hitta på sidan och mitt hopp är att fixa det, jag vill också testa nya saker med html och css som "cards" och menyer.
 
-## Krav
+## Kraven
 
-* Skisser.  <b>Finns på figma</b>
+* Skisser.  
+<b>Finns på figma</b>
 * Minst en sida, navigation, funka okej på desktop och mobil. 
-* Måste innehålla bilder (inte bara logga). <b>pfp(profile pictures)</b>
-* Tillgänglighets tänk, förbättra något från orginalet. <b>Kommer tänka färger</b>
+Gjort en sida med en navigationbar/Meny som funkar på desktop och mobil
+* Måste innehålla bilder (inte bara logga).
+<b>pfp(profile pictures)</b>
+* Tillgänglighets tänk, förbättra något från orginalet.
+* <b>Kommer tänka färger och kontraster</b>
+
 
 * Hostad på GitHub pages.
+Klart
 * Validerande HTML, CSS.
-* 
+Kolla wiki
+
 * Optimerade bilder.
+När jag skapade mina Pfp gjorde jag dom i rätt "nästan" rätt storlek så jag behöver inte riktigt optimera dom mer än det.
+
 
 * Testad.
 * Använd ett verktyg för test, tillgänglighet.
@@ -29,7 +38,6 @@ bildterapi husets hemsiade är inte användarvänlig. Det är väldigt svårt at
 * https://developers.google.com/web/tools/lighthouse
 
 * Dokumentera
-
 ### Jag har testat och dokumenterat
 Kolla i "Wiki" för att hitta dokumentationen för både HTML/CSS validationen och mitt test med "WAVE Eval Tool".
 
@@ -44,6 +52,6 @@ v.18
 v.19 fjärr
 v.20
 v.21 slutinlämning projekt / fjärr - Post mortem / checklista
-v.22 reststopp / redovisning (komplettering)
-v.23 
+v.22 Prov Matte (KLART)
+v.23 reststopp / redovisning (komplettering)
 v.24
