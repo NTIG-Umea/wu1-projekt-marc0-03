@@ -30,7 +30,7 @@ bildterapi husets hemsiade är inte användarvänlig. Det är väldigt svårt at
 
 * Dokumentera
 
-###Jag har testat och dokumenterat
+### Jag har testat och dokumenterat
 Kolla i "Wiki" för att hitta dokumentationen för både HTML/CSS validationen och mitt test med "WAVE Eval Tool".
 
 ## Omfattning, tid och planering
