@@ -8,7 +8,7 @@ Jag ska göra en redesign av en hemsida som vi har jobbat med på digitalt skapa
 
 på digitalt skapande har vi skapat en mobil verision av hemsidan som jag kommer att göra med html och css, sidan ska fungera både på mobil och dator.
 
-bildterapi husets hemsiade är inte användar vänlig, det är väldigt svårt att hitta på sidan och mitt hopp är att fixa det, jag vill också testa nya saker med html och css som "cards" och menyer
+bildterapi husets hemsiade är inte användarvänlig. Det är väldigt svårt att hitta på sidan och mitt hopp är att fixa det, jag vill också testa nya saker med html och css som "cards" och menyer.
 
 ## Krav
 
@@ -19,6 +19,7 @@ bildterapi husets hemsiade är inte användar vänlig, det är väldigt svårt a
 
 * Hostad på GitHub pages.
 * Validerande HTML, CSS.
+* 
 * Optimerade bilder.
 
 * Testad.
